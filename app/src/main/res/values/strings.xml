@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="ble_not_supported">不支持BLE功能</string>
+    <string name="paired">pair</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connect">connect</string>
+    <string name="scan">scan</string>
+    <string name="cancel">cancel</string>
+    <string name="device_list">设备列表</string>
+
+    <string name="popup_title">Quit nRF UART?</string>
+    <string name="popup_message">Do you want to quit this Application?</string>
+    <string name="popup_yes">YES</string>
+    <string name="popup_no">NO</string>
+
+</resources>
